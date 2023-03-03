@@ -101,6 +101,7 @@ Name    |    Description
 2. [cisco's cources](https://www.netacad.com/courses/cybersecurity)
 3.[cybrary](https://www.cybrary.it/catalog/cybersecurity/)
 4.[hackers academy](https://hackersacademy.com/)
+5. [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=AC32B4884907C2045265)
 
 For those who want to do CEH, the following links are for you.	
 2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
